@@ -1,0 +1,22 @@
+# Node
+node_modules/
+
+# TypeScript
+*.tsbuildinfo
+
+# Output
+outLrc/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Others
+readVtt/
