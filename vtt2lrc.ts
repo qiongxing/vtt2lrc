@@ -1,8 +1,10 @@
 const fs = require('fs');
 const path = require('path');
 
-const directoryPath = 'F:\\音色\\RJ01518390 RJ01518391';
-const directoryLrcPath = 'F:\\音色\\RJ01363802 RJ01363803\\WAV\\含效果音';
+// F:\\xx
+const directoryPath = '';
+// F:\\xx
+const directoryLrcPath = '';
 const isExportCurPath = true; // 是否导出当前目录
 
 // 确保输出目录存在
